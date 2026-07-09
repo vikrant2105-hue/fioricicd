@@ -1,0 +1,7 @@
+<mvc:View controllerName="zfioritest.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Button id="b1" text="Click Me!" press="onButtonPress"/>
+    </Page>
+</mvc:View>
