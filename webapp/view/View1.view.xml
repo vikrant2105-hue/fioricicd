@@ -3,7 +3,10 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Button id="b1" text="Click Me!" press="onButtonPress"/>
+    <VBox id="vbox" >
     <Text text="Code Changes" id="text1"></Text>
     <Text text="Second Time Code Changes " id="text2"></Text>
+    <Text text="Third Changes" id="text3"></Text>
+    </VBox>
     </Page>
 </mvc:View>
