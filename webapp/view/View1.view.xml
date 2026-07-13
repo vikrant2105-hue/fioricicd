@@ -7,6 +7,7 @@
     <Text text="Code Changes" id="text1"></Text>
     <Text text="Second Time Code Changes " id="text2"></Text>
     <Text text="Third Changes" id="text3"></Text>
+    <Text text="Fourth Changes" id="text4"></Text>
     </VBox>
     </Page>
 </mvc:View>
