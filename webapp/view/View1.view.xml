@@ -9,6 +9,7 @@
     <Text text="Third Changes" id="text3"></Text>
     <Text text="Fourth Changes" id="text4"></Text>
     <Text text="Fifth Changes" id="text5"></Text>
+    <Text text="Sixth Changes" id="text6"></Text>
     </VBox>
     </Page>
 </mvc:View>
