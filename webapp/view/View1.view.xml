@@ -4,5 +4,6 @@
     <Page id="page" title="{i18n>title}">
     <Button id="b1" text="Click Me!" press="onButtonPress"/>
     <Text text="Code Changes" id="text1"></Text>
+    <Text text="Second Time Code Changes " id="text2"></Text>
     </Page>
 </mvc:View>
